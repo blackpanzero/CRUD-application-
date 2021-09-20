@@ -12,7 +12,7 @@ node server.js
 ```
 ### Define Routes
 
-These are routes we define:
+These are routes I defined:
 
 /customers: GET, POST, DELETE
 
