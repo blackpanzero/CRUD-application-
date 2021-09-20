@@ -10,3 +10,9 @@ npm install
 ```
 node server.js
 ```
+### Define Routes
+
+These are routes we define:
+
+/customers: GET, POST, DELETE
+/customers/:customerId: GET, PUT, DELETE
