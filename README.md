@@ -15,5 +15,5 @@ node server.js
 These are routes we define:
 
 /customers: GET, POST, DELETE
-```
+
 /customers/:customerId: GET, PUT, DELETE
